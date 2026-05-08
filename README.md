@@ -1,32 +1,27 @@
-# Xin chào! Mình là Trần Sĩ Cường 🧑‍💻
+# Tran Si Cuong
 
-- ⚡ Sinh viên Công nghệ thông tin tại Học viện Công nghệ Bưu chính Viễn thông
-- 🚀 Đang đắm mình trong thế giới lập trình và khám phá công nghệ mới
+Final-year Software Engineering student at PTIT. 
+Passionate about Secure Backend development, system optimization, and always eager to learn and improve.
 
----
+## About Me
 
-## 🎯 Kỹ năng nổi bật
-- **Lập trình**: C++, Java, Python, JavaScript, TypeScript
-- **Phát triển Web**: HTML, CSS, ReactJS, NodeJS
-- **Công cụ & Framework**: Spring, Sequelize, GitHub, Postman, Docker
-- **Kỹ năng bổ trợ**: Giao tiếp, quản lý thời gian, tư duy giải quyết vấn đề
+- Interested in Backend development, system design, and microservices architecture
+- Focus on building resilient server-side applications and enhancing network security
+- Proactive, hardworking, and eager to grow into a professional engineer
 
----
+## Skills
 
-## 🌟 Các dự án mình tự hào
-- **[Chatroom-Realtime](https://github.com/TranSiCuongcn1/Chatroom-Realtime)**: Ứng dụng chat thời gian thực.
-- **[Phát hiện tấn công brute-force](https://github.com/TranSiCuongcn1/brute-force-attack)**: Thực hành phát hiện tấn công brute force bằng RSA.
+- **Languages:** Java (Spring Boot), Python
+- **Backend Security:** Spring Security, JWT, OAuth2, RBAC, RESTful APIs, Microservices
+- **Databases:** PostgreSQL (Query Optimization), MongoDB, Redis Caching
+- **Tools & DevOps:** Docker, Git, GitHub, Postman, Swagger/OpenAPI
+- **Core Concepts:** Data Structures & Algorithms, OOP, Distributed Systems, Network Security
 
----
+## Goal
 
-## 📩 Liên lạc với mình
-- ✉️ Email: [cuongtran.23092004@gmail.com](mailto:cuongtran.23092004@gmail.com)
-- 💻 GitHub: [https://github.com/TranSiCuongcn1](https://github.com/TranSiCuongcn1)
+To become a highly skilled secure backend engineer and grow into a professional software engineer.
 
----
+## Contact
 
-## 📊 Hành trình GitHub
-![Tran Si Cuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranSiCuongcn1&show_icons=true&theme=radical)
-![Ngôn ngữ yêu thích](https://github-readme-stats.vercel.app/api/top-langs/?username=TranSiCuongcn1&layout=compact&theme=radical)
-
-Cảm ơn bạn đã ghé thăm! ⚡ Mình rất mong được học hỏi và hợp tác cùng bạn! 🚀
+- **Email:** cuongtran.23092004@gmail.com
+- **LinkedIn:** [linkedin.com/in/tran-si-cuong](https://www.linkedin.com/in/tran-si-cuong-a5277937a/)

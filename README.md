@@ -11,7 +11,7 @@ Passionate about Secure Backend development, system optimization, and always eag
 
 ## Skills
 
-- **Languages:** Java (Spring Boot), Python
+- **Languages:** Java (Spring Boot), Python, C#, JavaScript, Next.js, Tailwind CSS.
 - **Backend Security:** Spring Security, JWT, OAuth2, RBAC, RESTful APIs, Microservices
 - **Databases:** PostgreSQL (Query Optimization), MongoDB, Redis Caching
 - **Tools & DevOps:** Docker, Git, GitHub, Postman, Swagger/OpenAPI

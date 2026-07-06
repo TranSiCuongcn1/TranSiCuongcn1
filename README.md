@@ -23,5 +23,5 @@ To become a highly skilled secure backend engineer and grow into a professional 
 
 ## Contact
 
-- **Email:** cuongtran.23092004@gmail.com
+- **Email:** tscuong.dev@gmail.com
 - **LinkedIn:** [linkedin.com/in/tran-si-cuong](https://www.linkedin.com/in/tran-si-cuong-a5277937a/)
